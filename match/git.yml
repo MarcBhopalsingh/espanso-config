@@ -1,3 +1,13 @@
 matches:
-  - trigger: ":gc"
+  - trigger: ":gct"
     replace: "git checkout"
+
+  - trigger: ":gs"
+    replace: "git status"
+
+  - trigger: ":gcm"
+    replace: "git commit -m \"\""
+
+  - trigger: ":gac"
+    replace: "git add . && git commit -m \"\""
+
