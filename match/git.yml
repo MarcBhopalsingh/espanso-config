@@ -12,4 +12,3 @@ matches:
 
   - trigger: ":gac"
     replace: "git add . && git commit -m \"\""
-

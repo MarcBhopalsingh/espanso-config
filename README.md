@@ -17,6 +17,7 @@ This repository contains custom configuration files for [Espanso](https://espans
 
 - `base.yml`: General text replacements.
 - `git.yml`: Git command shortcuts.
+- `sensitive.yml`: Not on GitHub but contains handy rules
 - Additional configuration files can be added and imported into `default.yml`.
 
 ## Troubleshooting
