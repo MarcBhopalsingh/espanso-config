@@ -1,0 +1,3 @@
+matches:
+  - trigger: ":gc"
+    replace: "git checkout"
