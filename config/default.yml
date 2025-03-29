@@ -1,5 +1,7 @@
 imports:
   - git.yml
+  - me.yml
+  - sensitive.yml
 
 # espanso configuration file
 
